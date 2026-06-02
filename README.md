@@ -29,3 +29,4 @@ O projeto consiste em um sistema de monitoramento de ruído utilizando ESP32, se
 ## Simulação
 
 O sistema foi desenvolvido e validado utilizando a plataforma Wokwi.
+https://wokwi.com/projects/465667640735841281
